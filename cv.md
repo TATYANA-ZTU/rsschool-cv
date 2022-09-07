@@ -33,7 +33,7 @@ My goal is to futher develop myself and be a part of a great team of developers.
 - Adobe Photoshop
 - Ability to work with documentation
 
-### HARD SKILLS
+### SOFT SKILLS
 ---
 - Analytical, solution-oriented and eager to learn and develop 
 
@@ -58,8 +58,7 @@ Full-stack web develop - implemented multi-page website, e-shop and landing page
 - Data output to the page, creation of categories and subcategories of products, filters, authorization system;
 - Implemented the administrative part of the website - adding, deletion, editing of the product, processing orders, managing comments, sending emails;
 
-### PROJECTS
----
+##### PROJECTS
 - [Огнезащитные краски и покрытия в Казахстане](https://svt.kz )
 - [Проектирование промышленных и гражданских объектов в казахстане](https://s-zh.kz )
 - [Интернет сагазин фермерских продуктов в Алматы](https://slavyanka.kz )
