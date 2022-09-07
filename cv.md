@@ -59,11 +59,11 @@ Full-stack web develop - implemented multi-page website, e-shop and landing page
 - Implemented the administrative part of the website - adding, deletion, editing of the product, processing orders, managing comments, sending emails;
 
 ##### PROJECTS
-- [Огнезащитные краски и покрытия в Казахстане](https://svt.kz )
-- [Проектирование промышленных и гражданских объектов в казахстане](https://s-zh.kz )
-- [Интернет сагазин фермерских продуктов в Алматы](https://slavyanka.kz )
-- [Строительная компания в Алматы](https://ts2s.kz )
-- [Интерьерная фотосъёмка в Алматы](https://etagi.kz )
+- [https://svt.kz](https://svt.kz)
+- [https://s-zh.kz](https://s-zh.kz)
+- [https://slavyanka.kz](https://slavyanka.kz)
+- [https://ts2s.kz](https://ts2s.kz)
+- [https://etagi.kz](https://etagi.kz)
 
 #### Financial Reporting Analyst - CPB ZASCHITA
 ##### Jun 2016 - Jan 2020 
